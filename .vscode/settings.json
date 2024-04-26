@@ -1,0 +1,7 @@
+{
+    "python.analysis.extraPaths": [
+        "./OpenVoice/openvoice",
+        "./OpenVoice"
+    ],
+    "commentTranslate.hover.enabled": true
+}
